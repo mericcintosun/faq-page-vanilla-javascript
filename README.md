@@ -18,8 +18,9 @@ See `freecodecamp.com` for ways to get started.
 
 Insert gif or link to demo
 
-https://color-flipper-by-meric-cintosun.vercel.app/
+https://faq-page-vanilla-javascript-coding-by-mericcintosun.vercel.app/
+
 ## Screenshots
 
-![App Screenshot](https://r.resimlink.com/D4zgKJb.png)
+![App Screenshot](https://r.resimlink.com/RqeK1_TrC.png)
 
